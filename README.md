@@ -363,6 +363,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Harsha Vardhan**
+**Harsha CK**
 - GitHub: [@01harsha2006](https://github.com/01harsha2006)
 - Repository: [MediBudget](https://github.com/01harsha2006/MediBudget.git)
