@@ -1,0 +1,15 @@
+# ========================================================
+# MediBudget Database Configuration
+# ========================================================
+# Place your local MySQL connection settings below.
+# Copy or rename this file to db.properties, or use the 
+# "⚙ DB Settings" button right from the MediBudget Login GUI.
+
+db.host=localhost
+db.port=3306
+db.name=medibudget_db
+db.user=root
+db.password=YOUR_MYSQL_PASSWORD_HERE
+
+# Advanced connection options (optional)
+db.url=jdbc:mysql://localhost:3306/medibudget_db?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC

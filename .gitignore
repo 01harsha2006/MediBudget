@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+MediBudget/*.class
+bin/
+out/
+
+# Package archives (except runtime dependencies in lib/)
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+!lib/*.jar
+
+# Database credentials (use db.properties.example as template)
+db.properties
+
+# Logs and temporary runtime artifacts
+*.log
+
+# IDE & Editor metadata
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
